@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|solutionrelative:Tp8-Ejercicio2\\Clases\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|solutionrelative:Tp8-Ejercicio2\\Clases\\Pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|solutionrelative:Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|d:\\cano tps\\tp8-proyecto-nazarenoalvarez\\tp8-ejercicio2\\tp8-ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8326718D-DE18-450F-8A34-24ED6C9EBFAB}|Tp8-Ejercicio2\\Tp8-Ejercicio2.csproj|solutionrelative:tp8-ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vuelo.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Vuelo.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio2\\Clases\\Vuelo.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Vuelo.cs",
+              "RelativeToolTip": "Tp8-Ejercicio2\\Clases\\Vuelo.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:45:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pasajero.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Pasajero.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio2\\Clases\\Pasajero.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\Pasajero.cs",
+              "RelativeToolTip": "Tp8-Ejercicio2\\Clases\\Pasajero.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:44:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorDeVuelos.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs",
+              "RelativeToolTip": "Tp8-Ejercicio2\\Clases\\GestorDeVuelos.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:44:39.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio2\\Program.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio2\\Tp8-Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Tp8-Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:41:13.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

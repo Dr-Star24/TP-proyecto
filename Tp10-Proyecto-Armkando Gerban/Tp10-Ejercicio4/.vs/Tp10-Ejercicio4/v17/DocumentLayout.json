@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tp10-Proyecto-NazarenoAlvarez\\Tp10-Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D6287C-480B-4738-A0ED-5AABCB2ED0B9}|Tp10-Ejercicio4\\Tp10-Ejercicio4.csproj|e:\\tp10-proyecto-nazarenoalvarez\\tp10-ejercicio4\\tp10-ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D6287C-480B-4738-A0ED-5AABCB2ED0B9}|Tp10-Ejercicio4\\Tp10-Ejercicio4.csproj|solutionrelative:tp10-ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D6287C-480B-4738-A0ED-5AABCB2ED0B9}|Tp10-Ejercicio4\\Tp10-Ejercicio4.csproj|e:\\tp10-proyecto-nazarenoalvarez\\tp10-ejercicio4\\tp10-ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D6287C-480B-4738-A0ED-5AABCB2ED0B9}|Tp10-Ejercicio4\\Tp10-Ejercicio4.csproj|solutionrelative:tp10-ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Tp10-Proyecto-NazarenoAlvarez\\Tp10-Ejercicio4\\Tp10-Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp10-Ejercicio4\\Form1.cs",
+              "ToolTip": "E:\\Tp10-Proyecto-NazarenoAlvarez\\Tp10-Ejercicio4\\Tp10-Ejercicio4\\Form1.cs",
+              "RelativeToolTip": "Tp10-Ejercicio4\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:21:47.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Tp10-Proyecto-NazarenoAlvarez\\Tp10-Ejercicio4\\Tp10-Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp10-Ejercicio4\\Form1.cs",
+              "ToolTip": "E:\\Tp10-Proyecto-NazarenoAlvarez\\Tp10-Ejercicio4\\Tp10-Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp10-Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:21:26.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

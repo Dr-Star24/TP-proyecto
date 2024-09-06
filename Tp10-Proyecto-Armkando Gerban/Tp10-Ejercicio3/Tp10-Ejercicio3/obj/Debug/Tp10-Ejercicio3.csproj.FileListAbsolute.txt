@@ -1,0 +1,13 @@
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\bin\Debug\Tp10-Ejercicio3.exe.config
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\bin\Debug\Tp10-Ejercicio3.exe
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\bin\Debug\Tp10-Ejercicio3.pdb
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.csproj.AssemblyReference.cache
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10_Ejercicio3.Form1.resources
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10_Ejercicio3.Properties.Resources.resources
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.csproj.GenerateResource.cache
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.csproj.CoreCompileInputs.cache
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.exe
+E:\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.pdb
+F:\Cano Tps\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\bin\Debug\Tp10-Ejercicio3.exe.config
+F:\Cano Tps\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.exe
+F:\Cano Tps\Tp10-Proyecto-NazarenoAlvarez\Tp10-Ejercicio3\Tp10-Ejercicio3\obj\Debug\Tp10-Ejercicio3.pdb
