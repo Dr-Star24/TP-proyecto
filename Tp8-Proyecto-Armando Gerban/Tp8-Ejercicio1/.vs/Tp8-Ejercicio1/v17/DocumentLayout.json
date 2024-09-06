@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|solutionrelative:Tp8-Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|solutionrelative:Tp8-Ejercicio1\\Clases\\Biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|solutionrelative:Tp8-Ejercicio1\\Clases\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|solutionrelative:Tp8-Ejercicio1\\Clases\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|d:\\cano tps\\tp8-proyecto-nazarenoalvarez\\tp8-ejercicio1\\tp8-ejercicio1\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57482-05E5-4568-95C7-4151F7554F05}|Tp8-Ejercicio1\\Tp8-Ejercicio1.csproj|solutionrelative:tp8-ejercicio1\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio1\\Clases\\Usuario.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Usuario.cs",
+              "RelativeToolTip": "Tp8-Ejercicio1\\Clases\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:32:05.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio1\\Clases\\Prestamo.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Prestamo.cs",
+              "RelativeToolTip": "Tp8-Ejercicio1\\Clases\\Prestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:31:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio1\\Clases\\Libro.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Libro.cs",
+              "RelativeToolTip": "Tp8-Ejercicio1\\Clases\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:31:27.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio1\\Clases\\Biblioteca.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Clases\\Biblioteca.cs",
+              "RelativeToolTip": "Tp8-Ejercicio1\\Clases\\Biblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:31:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Tp8-Ejercicio1\\Program.cs",
+              "ToolTip": "D:\\Cano Tps\\Tp8-Proyecto-NazarenoAlvarez\\Tp8-Ejercicio1\\Tp8-Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Tp8-Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:05:48.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

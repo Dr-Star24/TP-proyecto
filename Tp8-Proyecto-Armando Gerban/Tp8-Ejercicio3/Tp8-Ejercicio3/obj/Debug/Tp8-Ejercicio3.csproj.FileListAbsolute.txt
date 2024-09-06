@@ -1,0 +1,7 @@
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\bin\Debug\Tp8-Ejercicio3.exe.config
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\bin\Debug\Tp8-Ejercicio3.exe
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\bin\Debug\Tp8-Ejercicio3.pdb
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\obj\Debug\Tp8-Ejercicio3.csproj.AssemblyReference.cache
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\obj\Debug\Tp8-Ejercicio3.csproj.CoreCompileInputs.cache
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\obj\Debug\Tp8-Ejercicio3.exe
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio3\Tp8-Ejercicio3\obj\Debug\Tp8-Ejercicio3.pdb

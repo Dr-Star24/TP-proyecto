@@ -1,0 +1,20 @@
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.exe.config
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.exe
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.pdb
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.AssemblyReference.cache
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9_Ejercicio1.Form1.resources
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9_Ejercicio1.Properties.Resources.resources
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.GenerateResource.cache
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.exe
+E:\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.pdb
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.exe.config
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.exe
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\bin\Debug\Tp9-Ejercicio1.pdb
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.AssemblyReference.cache
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9_Ejercicio1.Form1.resources
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9_Ejercicio1.Properties.Resources.resources
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.GenerateResource.cache
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.exe
+D:\Cano Tps\Tp9-Proyecto-NazarenoAlvarez\Tp9-Ejercicio1\Tp9-Ejercicio1\obj\Debug\Tp9-Ejercicio1.pdb

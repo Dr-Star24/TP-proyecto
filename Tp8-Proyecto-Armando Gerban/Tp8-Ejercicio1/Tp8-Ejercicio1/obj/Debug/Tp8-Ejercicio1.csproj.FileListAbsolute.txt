@@ -1,0 +1,10 @@
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.csproj.AssemblyReference.cache
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\bin\Debug\Tp8-Ejercicio1.exe.config
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\bin\Debug\Tp8-Ejercicio1.exe
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\bin\Debug\Tp8-Ejercicio1.pdb
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.exe
+E:\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.pdb
+F:\Cano Tps\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\bin\Debug\Tp8-Ejercicio1.exe.config
+F:\Cano Tps\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.exe
+F:\Cano Tps\Tp8-Proyecto-NazarenoAlvarez\Tp8-Ejercicio1\Tp8-Ejercicio1\obj\Debug\Tp8-Ejercicio1.pdb
